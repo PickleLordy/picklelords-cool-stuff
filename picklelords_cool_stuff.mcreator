@@ -12,13 +12,22 @@
       "metadata": {
         "ep": true
       }
+    },
+    {
+      "name": "VoidKey",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "void_key"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.picklelords_cool_stuff.void_dimension": "Void Dimension Portal Igniter"
+      "item.picklelords_cool_stuff.void_dimension": "Void Key"
     }
   },
   "foldersRoot": {

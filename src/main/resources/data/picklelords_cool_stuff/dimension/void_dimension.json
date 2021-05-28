@@ -54,7 +54,7 @@
       "sea_level": 0,
       "disable_mob_generation": true,
       "default_block": {
-        "Name": "minecraft:barrier"
+        "Name": "minecraft:polished_blackstone_bricks"
       },
       "default_fluid": {
         "Name": "minecraft:water",

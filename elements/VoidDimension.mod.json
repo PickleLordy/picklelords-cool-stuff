@@ -9,7 +9,7 @@
     ],
     "worldGenType": "End like gen",
     "mainFillerBlock": {
-      "value": "Blocks.BARRIER"
+      "value": "Blocks.POLISHED_BLACKSTONE_BRICKS"
     },
     "fluidBlock": {
       "value": "Blocks.WATER"
@@ -29,13 +29,13 @@
       "value": "Blocks.END_STONE"
     },
     "portalParticles": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "SQUID_INK"
     },
     "portalLuminance": 15,
     "portalSound": {
       "value": "block.portal.ambient"
     },
-    "igniterName": "Void Dimension Portal Igniter",
+    "igniterName": "Void Key",
     "igniterTab": {
       "value": "TOOLS"
     },
