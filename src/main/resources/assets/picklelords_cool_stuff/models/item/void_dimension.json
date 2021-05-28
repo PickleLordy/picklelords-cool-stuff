@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "picklelords_cool_stuff:items/voidkey"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "picklelords_cool_stuff:block/void_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "picklelords_cool_stuff:block/void_dimension_portal_ns"
+    }
+  }
+}

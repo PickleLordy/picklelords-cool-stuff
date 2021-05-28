@@ -1,0 +1,47 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "VoidDimension",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "void_dimension",
+      "metadata": {
+        "ep": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.picklelords_cool_stuff.void_dimension": "Void Dimension Portal Igniter"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "picklelords_cool_stuff",
+    "modName": "PickleLord\u0027s Cool Stuff",
+    "version": "1.0.0",
+    "author": "finn, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.picklelordscoolstuff",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100116710
+}
