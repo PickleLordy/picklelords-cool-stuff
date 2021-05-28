@@ -36,7 +36,7 @@
       },
       "biomes": [
         {
-          "biome": "the_end",
+          "biome": "picklelords_cool_stuff:void_highlands",
           "parameters": {
             "temperature": 0,
             "humidity": 0,

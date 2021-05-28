@@ -21,13 +21,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "void_key"
+    },
+    {
+      "name": "VoidHighlands",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "void_highlands"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.picklelords_cool_stuff.void_dimension": "Void Key"
+      "item.picklelords_cool_stuff.void_dimension": "Void Key",
+      "biome.picklelords_cool_stuff.void_highlands": "Void Highlands"
     }
   },
   "foldersRoot": {

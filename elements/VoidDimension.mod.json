@@ -4,7 +4,7 @@
   "definition": {
     "biomesInDimension": [
       {
-        "value": "the_end"
+        "value": "CUSTOM:VoidHighlands"
       }
     ],
     "worldGenType": "End like gen",
