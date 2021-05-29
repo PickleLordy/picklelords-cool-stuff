@@ -29,11 +29,11 @@
       "value": "Blocks.END_STONE"
     },
     "portalParticles": {
-      "value": "SQUID_INK"
+      "value": "REVERSE_PORTAL"
     },
     "portalLuminance": 15,
     "portalSound": {
-      "value": "block.portal.ambient"
+      "value": ""
     },
     "igniterName": "Void Key",
     "igniterTab": {

@@ -30,6 +30,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "void_highlands"
+    },
+    {
+      "name": "VoidTemple",
+      "type": "structure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "void_temple"
     }
   ],
   "variable_elements": [],
