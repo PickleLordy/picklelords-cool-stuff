@@ -1,6 +1,11 @@
 {
   "item.picklelords_cool_stuff.void_dimension": "Void Key",
   "biome.picklelords_cool_stuff.void_highlands": "Void Highlands",
+  "item.picklelords_cool_stuff.void_metal": "Void Metal",
+  "item.picklelords_cool_stuff.voidswordblade": "Voidswordblade",
+  "item.picklelords_cool_stuff.void_sword_handle": "Void Sword Handle",
   "biome.picklelords_cool_stuff.voidic_plains": "Voidic Plains",
-  "biome.picklelords_cool_stuff.evil_forest": "Evil Forest"
+  "biome.picklelords_cool_stuff.evil_forest": "Evil Forest",
+  "item.picklelords_cool_stuff.void_sword": "Void Sword",
+  "block.picklelords_cool_stuff.void_ore": "Void Ore"
 }

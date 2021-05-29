@@ -1,0 +1,12 @@
+{
+  "group": "picklelords_cool_stuff",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "picklelords_cool_stuff:void_ore"
+  },
+  "result": {
+    "item": "picklelords_cool_stuff:void_metal"
+  }
+}

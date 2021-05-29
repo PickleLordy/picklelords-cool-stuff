@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:VoidOre"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:VoidMetal"
+    },
+    "name": "void_metal_recipie",
+    "namespace": "mod"
+  }
+}

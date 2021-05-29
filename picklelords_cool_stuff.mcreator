@@ -57,6 +57,87 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "evil_forest"
+    },
+    {
+      "name": "VoidMetal",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "void_metal"
+    },
+    {
+      "name": "VoidOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "void_ore"
+    },
+    {
+      "name": "VoidMetalRecipie",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "void_metal_recipie"
+    },
+    {
+      "name": "VoidSwordHandle",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "void_sword_handle"
+    },
+    {
+      "name": "Voidswordhandlerecipie",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "voidswordhandlerecipie"
+    },
+    {
+      "name": "Voidswordblade",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "voidswordblade"
+    },
+    {
+      "name": "Voidswordbladerecipie",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "voidswordbladerecipie"
+    },
+    {
+      "name": "VoidSword",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "void_sword"
+    },
+    {
+      "name": "Voidswordrecipie",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "voidswordrecipie"
     }
   ],
   "variable_elements": [],
@@ -65,8 +146,13 @@
     "en_us": {
       "item.picklelords_cool_stuff.void_dimension": "Void Key",
       "biome.picklelords_cool_stuff.void_highlands": "Void Highlands",
+      "item.picklelords_cool_stuff.void_metal": "Void Metal",
+      "item.picklelords_cool_stuff.voidswordblade": "Voidswordblade",
+      "item.picklelords_cool_stuff.void_sword_handle": "Void Sword Handle",
       "biome.picklelords_cool_stuff.voidic_plains": "Voidic Plains",
-      "biome.picklelords_cool_stuff.evil_forest": "Evil Forest"
+      "biome.picklelords_cool_stuff.evil_forest": "Evil Forest",
+      "item.picklelords_cool_stuff.void_sword": "Void Sword",
+      "block.picklelords_cool_stuff.void_ore": "Void Ore"
     }
   },
   "foldersRoot": {

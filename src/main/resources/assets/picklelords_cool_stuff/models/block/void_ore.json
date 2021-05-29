@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "picklelords_cool_stuff:blocks/voidore",
+    "up": "picklelords_cool_stuff:blocks/voidore",
+    "north": "picklelords_cool_stuff:blocks/voidore",
+    "east": "picklelords_cool_stuff:blocks/voidore",
+    "south": "picklelords_cool_stuff:blocks/voidore",
+    "west": "picklelords_cool_stuff:blocks/voidore",
+    "particle": "picklelords_cool_stuff:blocks/voidore"
+  }
+}

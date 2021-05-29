@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "picklelords_cool_stuff:voidswordblade"
+  },
+  "addition": {
+    "item": "picklelords_cool_stuff:void_sword_handle"
+  },
+  "result": {
+    "item": "picklelords_cool_stuff:void_sword"
+  }
+}
