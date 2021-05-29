@@ -5,6 +5,9 @@
     "biomesInDimension": [
       {
         "value": "CUSTOM:VoidHighlands"
+      },
+      {
+        "value": "CUSTOM:VoidicPlains"
       }
     ],
     "worldGenType": "End like gen",

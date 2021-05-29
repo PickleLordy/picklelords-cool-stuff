@@ -39,6 +39,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "void_temple"
+    },
+    {
+      "name": "VoidicPlains",
+      "type": "biome",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "voidic_plains"
+    },
+    {
+      "name": "EvilForest",
+      "type": "biome",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_forest"
     }
   ],
   "variable_elements": [],
@@ -46,7 +64,9 @@
   "language_map": {
     "en_us": {
       "item.picklelords_cool_stuff.void_dimension": "Void Key",
-      "biome.picklelords_cool_stuff.void_highlands": "Void Highlands"
+      "biome.picklelords_cool_stuff.void_highlands": "Void Highlands",
+      "biome.picklelords_cool_stuff.voidic_plains": "Voidic Plains",
+      "biome.picklelords_cool_stuff.evil_forest": "Evil Forest"
     }
   },
   "foldersRoot": {
